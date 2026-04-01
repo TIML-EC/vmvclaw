@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    overflow: hidden; /* 隱藏滾動條 */
+}
+canvas {
+    display: block; /* 移除 canvas 下方的空隙 */
+}
